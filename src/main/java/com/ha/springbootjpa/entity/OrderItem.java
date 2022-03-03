@@ -1,7 +1,5 @@
 package com.ha.springbootjpa.entity;
 
-import com.ha.springbootjpa.entity.Item;
-import com.ha.springbootjpa.entity.Member;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
